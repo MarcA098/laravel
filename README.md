@@ -28,7 +28,7 @@
 
 ## **3. Data**
 - **3.1.** Where are they defined?  
--  En /database
+-  En /public/films.json
 - **3.2.** How are they read?  
 - 
 
